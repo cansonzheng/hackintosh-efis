@@ -299,7 +299,7 @@
 			<key>AFGLowPowerState</key>
 			<true/>
 			<key>Inject</key>
-			<integer>1</integer>
+			<integer>27</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
